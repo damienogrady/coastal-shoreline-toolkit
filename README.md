@@ -100,6 +100,7 @@ upload another GeoJSON polygon, or draw an area on the map.
 ### Compare imagery and shoreline outlines
 
 ![SWIR, NIR and green false-colour Sentinel-2 composite with a later shoreline outline](images/false_colour_composite_with_later_vector_outline.png)
+
 *Derived from ESA's [(Copernicus Sentinel-2 data)](#reference) 2016.*
 
 The false-colour composite provides image context for a year-specific, unfilled shoreline
