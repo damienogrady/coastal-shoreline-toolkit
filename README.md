@@ -1,5 +1,7 @@
 # Coastal Shoreline Change Toolkit
 
+![Visual summary](./images/montage.png)
+
 An interactive, form-based demonstration of coastal shoreline change, built with Python and
 Google Earth Engine (GEE). It turns Copernicus Sentinel-2 surface-reflectance imagery into
 annual shoreline outlines, cross-shore waterline comparisons and a clearly qualified
@@ -98,6 +100,7 @@ upload another GeoJSON polygon, or draw an area on the map.
 ### Compare imagery and shoreline outlines
 
 ![SWIR, NIR and green false-colour Sentinel-2 composite with a later shoreline outline](images/false_colour_composite_with_later_vector_outline.png)
+*Derived from ESA's [(Copernicus Sentinel-2 data)](#reference) 2016.*
 
 The false-colour composite provides image context for a year-specific, unfilled shoreline
 vector. Use the map layer control to switch observation years and compare outlines.
@@ -252,3 +255,5 @@ Released under the [MIT License](LICENSE).
 ## Reference
 
 **O’Grady, D., Leblanc, M, Bass, A. (2014)**, *The use of radar satellite data from multiple incidence angles improves surface water mapping*. Remote Sensing of Environment, 140, 652–664. [doi:10.1016/j.rse.2013.10.006](https://doi.org/10.1016/j.rse.2013.10.006)
+
+**Dávid D. Kovács, Jan Musial, Jędrzej Bojanowski, Dennis Clarijs, Jurry de la Mar, and András Zlinszky. (2026)**, *Copernicus Data Space Ecosystem establishes public cloud processing for earth observation data.* Scientific Data (2026). [doi: 10.1038/s41597-026-06765-8](https://www.nature.com/articles/s41597-026-06765-8).
